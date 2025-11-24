@@ -3,7 +3,7 @@ It allows users to select food items from a menu, input quantities, and then cal
 The system generates a formatted bill or invoice for customers, improving billing accuracy and efficiency.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Core StructureA 
+📝 
 
 main structure like struct Product or struct Item to represent each menu item with fields such as
 :int id (item identifier)
