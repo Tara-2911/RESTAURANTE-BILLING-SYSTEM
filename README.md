@@ -54,6 +54,7 @@ Bill Generation and Invoice
 ​Recording the payment type (Cash, Card, etc.). In a C-based project, this is typically a simple record and not an actual integration with a payment gateway.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
+
 UNIQUE FETURES
 HERE IT IS A ONLINE BILLING SYSTEM WHICH NEEDS POINT TO POINT DETAILS TO CREAT PROPER BILL.
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -70,6 +71,9 @@ HERE IT IS A ONLINE BILLING SYSTEM WHICH NEEDS POINT TO POINT DETAILS TO CREAT P
 . Displays Updated Inventory After Billing
 . Supports Dine-In & Takeaway Orders
 . Data Persistence using menu.txt and sales.txt
+
+
+
 ==================================================================================================================================
 
 HERE ARE THE SCREENSHOTS OF MY PROJECT.
